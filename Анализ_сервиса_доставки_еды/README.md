@@ -3,4 +3,4 @@
 ## Визуализация результатов
 
 Основной дашборд с метриками проекта доступен в Yandex DataLens:  
-[📊 Дашборд проекта](https://datalens.yandex.cloud/abc123xyz)
+[📊 Дашборд проекта](https://datalens.yandex/1tg8mh9qdilom)
